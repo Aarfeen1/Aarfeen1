@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aarfeen
 - 👀 I’m interested in  Developing softwares
-- 🌱 I’m currently learning developing skills.
+- 🌱 I’m currently working  as software engineer.
 - 📫 reach me mdaarfeen.xworkz@gmail.com
 
 <!---
